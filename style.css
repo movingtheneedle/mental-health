@@ -2,13 +2,9 @@ body, a, p {
   font-family:'Trebuchet MS', 'San-serif', 'Franklin Gothic Medium', 'Arial Narrow', 'Arial'
 }
 
-#coupon {
-  background-color: black;
-  color: white;
-}
 
 #nav-bar {
-  background-image: linear-gradient(45deg, #e96443, #904e95);
+  background-color: #141645;
   padding: 10px;
   margin: 0;
 }
@@ -57,27 +53,6 @@ footer {
 
 .formbutton {
   margin-bottom: 0px;
-}
-
-.models {
-  margin-left: 120px;
-  margin-top: 10px;
-}
-
-table {
-  margin: 20px;
-  align: center; 
-  width: 90%; 
-}
-
-
-.table-titles {
-  text-align: center;
-  font-weight: bold;
-}
-
-.buy {
-  text-align: left;
 }
 
 #thanksimg {
