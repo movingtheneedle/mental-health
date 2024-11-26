@@ -7,6 +7,7 @@ body, a, p {
   background-color: #141645;
   padding: 10px;
   margin: 0;
+  height: 100px;
 }
 
 .nav{
