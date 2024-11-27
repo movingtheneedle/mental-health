@@ -4,7 +4,7 @@ body, a, p {
 
 
 #nav-bar {
-  background-color: #141645;
+  background-image: linear-gradient(45deg, #FBD3DB, #F2D5C3, #FBF2C9, #E7EEC2, #CEECEC, #B8D8E7, #EBE0F1);
   padding: 10px;
   margin: 0;
   height: 100px;
@@ -31,7 +31,7 @@ a.nav-links{
 
 
 footer {
-  background-color: #141645;
+  background-image: linear-gradient(45deg, #FBD3DB, #F2D5C3, #FBF2C9, #E7EEC2, #CEECEC, #B8D8E7, #EBE0F1);
   color: whitesmoke;
   text-decoration: none;
   font-weight: bolder;
