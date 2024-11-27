@@ -10,6 +10,11 @@ p {
    font-size: 20px;
 }
 
+a, p {
+  left-margin: 50px;
+  right-margin: 50px;
+}
+
 #nav-bar {
   background-image: linear-gradient(45deg, #FBD3DB, #F2D5C3, #FBF2C9, #E7EEC2, #CEECEC, #B8D8E7, #EBE0F1);
   padding: 10px;
