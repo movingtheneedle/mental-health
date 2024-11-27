@@ -2,6 +2,13 @@ body, a, p {
   font-family:'Trebuchet MS', 'San-serif', 'Franklin Gothic Medium', 'Arial Narrow', 'Arial'
 }
 
+body {
+  font-size: 30px;
+}
+
+p {
+   font-size: 20px;
+}
 
 #nav-bar {
   background-image: linear-gradient(45deg, #FBD3DB, #F2D5C3, #FBF2C9, #E7EEC2, #CEECEC, #B8D8E7, #EBE0F1);
@@ -27,6 +34,7 @@ a.nav-links{
   margin-right: 500px;
   position: absolute;
   font-weight: bolder;
+  font-size: 40px;
 }
 
 
@@ -41,20 +49,8 @@ footer {
   margin-left: 20px;
 }
 
-#email {
-  margin-left: 700px;
-  margin-bottom: 100px;
-}
-
-
-.formbutton {
-  margin-bottom: 0px;
-}
-
 div {
   top: 300px;
 }
 
-#thanksimg {
-  margin-left: 450px;
-}
+
